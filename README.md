@@ -212,8 +212,10 @@ Any behavior you want *every* time:
 
 ## 📚 Further Reading
 
-- **Archie Sonic Comics** — *Issues #100–#175* cover the NICOLE consciousness arc most directly
-- **Sonic Universe** — The Iron Dominion arc (Issues #1–#12) is essential NICOLE canon
+- **Archie Sonic Comics** — *Issue #151* is where NICOLE's holographic lynx form debuts; *Ian Flynn's run begins at #160* and is where her character truly deepens
+- **Sonic the Hedgehog #201–#212** — The main Iron Dominion saga; this is where NICOLE is hijacked and weaponized against New Mobotropolis
+- **Sonic Universe #13–#16** — *"Journey to the East"*, the Sonic Universe Iron Dominion tie-in; completes the saga
+- **Sonic Universe #71–#74** — *"Spark of Life"*; NICOLE's post-reboot origin story with Dr. Ellidy, her creator — the most personal NICOLE arc in the series
 - **Ian Flynn's run** — The writer who gave NICOLE her fullest character development
 - [Sonic Wiki — NICOLE page](https://sonic.fandom.com/wiki/Nicole_the_Holo-Lynx) for quick lore reference
 
